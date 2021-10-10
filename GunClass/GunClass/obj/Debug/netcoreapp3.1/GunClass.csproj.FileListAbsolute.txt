@@ -1,0 +1,13 @@
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/bin/Debug/netcoreapp3.1/GunClass.deps.json
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/bin/Debug/netcoreapp3.1/GunClass.runtimeconfig.json
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/bin/Debug/netcoreapp3.1/GunClass.runtimeconfig.dev.json
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/bin/Debug/netcoreapp3.1/GunClass.dll
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/bin/Debug/netcoreapp3.1/GunClass.pdb
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.csproj.AssemblyReference.cache
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.AssemblyInfoInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.AssemblyInfo.cs
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.csproj.CoreCompileInputs.cache
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.dll
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.pdb
+/Users/jeyhunsafaraliyev/Desktop/GunClass/GunClass/GunClass/obj/Debug/netcoreapp3.1/GunClass.genruntimeconfig.cache

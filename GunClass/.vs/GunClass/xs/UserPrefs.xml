@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{99F69396-1771-44A3-BB07-DB8D9DC029D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GunClass/Program.cs">
+    <Files>
+      <File FileName="GunClass/Program.cs" Line="15" Column="10" />
+      <File FileName="GunClass/Guns.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GunClass" expanded="True">
+            <Node name="GunClass" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GunClass FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
